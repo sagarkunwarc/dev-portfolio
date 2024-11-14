@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+
+  margin: 0;
+}
+
+.hero {
+  text-align: center;
+
+  padding: 20px;
+}
+
+.about,
+.skills,
+.projects,
+.contact {
+  padding: 20px;
+}
