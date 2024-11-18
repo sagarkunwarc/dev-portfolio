@@ -6,7 +6,7 @@ export default function About() {
       <h2 className="text-2xl font-bold">About Me</h2>
       <p>
         I am a software engineer with a passion for creating innovative
-        solutions with Java, Spring Boot, React, Next JS Express with different
+        solutions with Java, Spring Boot, React, Next JS, and Express with different
         databases and cloud technologies.
       </p>
       <button className="bg-blue-500 hover:bg-blue-700 transition-colors duration-300 px-6 py-2 rounded">
